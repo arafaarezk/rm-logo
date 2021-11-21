@@ -1,1 +1,1 @@
-# rm-logo
+Restore the default terminal
